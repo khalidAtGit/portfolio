@@ -1,10 +1,10 @@
 const projects = [
     {
         id: 1,
-        project_image: '........',
-        project_title: '..........',
-        live_url: '...........',
-        source_url: '............',
+        project_image: 'https://github.com/khalidAtGit/OchiNew/blob/main/public/assets/Ochi.jpg',
+        project_title: 'Ochi',
+        live_url: 'https://ochi-new-khalidatgits-projects.vercel.app/',
+        source_url: 'https://github.com/khalidAtGit/OchiNew',
         description: '..........',
         stack: [
             'React',

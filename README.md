@@ -48,7 +48,7 @@ Feel free to reach out to me with any inquiries, opportunities, or collaboration
 
 - Email: [khalid.work97@gmail.com](mailto:khalid.work97@gmail.com)
 - LinkedIn: [Mohammad Khalid](https://www.linkedin.com/in/mkhalid1997)
-- Portfolio: [Portfolio](https://portfolio-9ttbk4ptv-khalidatgits-projects.vercel.app/)
+- Portfolio: [Portfolio](https://khalidatgit.github.io/portfolio/)
 
 ## Social
 
