@@ -1,0 +1,116 @@
+.project {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+
+    .project-main-container {
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+
+        .project-image-container {
+            width: 100%;
+            background-color: var(--black);
+            line-height: 0;
+        
+            position: relative;
+
+            .project-image {
+                width: 100%;
+                transition: opacity 0.4s ease-in-out;
+            }
+        }
+
+        .live-site-url {
+            position: absolute;
+            z-index: 2;
+            bottom: -2.65rem;
+            left: 1rem;
+            padding: 0.65rem 1rem;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            border-radius: 0.25rem;
+        
+            color: var(--white);
+            background-color: var(--blue-1);
+        
+            transition: bottom 0.4s ease-in-out;
+
+            &:hover {
+                background-color: var(--blue-2);
+            }
+
+            @media (max-width: 1024px) {
+                bottom: -2.65rem;
+                left: 0.75rem;
+                padding: 0.5rem 0.8rem;
+                font-size: 0.75rem;
+            }
+
+            @media (max-width: 426px) {
+                bottom: -2.65rem;
+                left: 0.75rem;
+                padding: 0.75rem 1rem;
+                font-size: 0.9rem;
+            }
+        }
+        
+        .source-url {
+            position: absolute;
+            z-index: 2;
+            bottom: -2.65rem;
+            right: 1rem;
+            padding: 0.65rem 1rem;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            border-radius: 0.25rem;
+        
+            color: var(--white);
+            background-color: var(--blue-1);
+        
+            transition: bottom 0.4s ease-in-out;
+
+            &:hover {
+                background-color: var(--blue-2);
+            }
+
+            @media (max-width: 1024px) {
+                bottom: -2.65rem;
+                right: 0.75rem;
+                padding: 0.5rem 0.8rem;
+                font-size: 0.75rem;
+            }
+
+            @media (max-width: 426px) {
+                bottom: -2.65rem;
+                right: 0.75rem;
+                padding: 0.75rem 1rem;
+                font-size: 0.9rem;
+            }
+        }
+
+        &:hover .project-image {
+            opacity: 0.5;
+            cursor: pointer;
+        }
+
+        &:hover .live-site-url, &:hover .source-url {
+            bottom: 0.5rem;
+        }
+    }
+
+    .project-title {
+        font-size: 1.15rem;
+        font-weight: 400;
+
+        @media (max-width: 1024px) {
+            font-size: 1rem;
+        }
+
+        @media (max-width: 426px) {
+            font-size: 1.25rem;
+        }
+    }
+}
