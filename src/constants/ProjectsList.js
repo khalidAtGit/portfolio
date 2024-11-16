@@ -16,10 +16,10 @@ const projects = [
     },
     {
         id: 2,
-        project_image: 'https://raw.githubusercontent.com/khalidAtGit/OchiNew/main/public/assets/Ochi.jpg',
-        project_title: '...........',
-        live_url: '........................',
-        source_url: '.......................',
+        project_image: 'https://raw.githubusercontent.com/khalidAtGit/tic-tac-toe/media/display.png',
+        project_title: 'Tic-Tac-Toe',
+        live_url: 'https://khalidatgit.github.io/tic-tac-toe/',
+        source_url: 'https://github.com/khalidAtGit/tic-tac-toe.git',
         description: '.................',
         stack: [
             'React',
@@ -32,10 +32,10 @@ const projects = [
     },
     {
         id: 3,
-        project_image: 'https://raw.githubusercontent.com/khalidAtGit/OchiNew/main/public/assets/Ochi.jpg',
-        project_title: '........',
-        live_url: '............',
-        source_url: '....................',
+        project_image: 'https://raw.githubusercontent.com/khalidAtGit/expense-tracker/public/ss.png',
+        project_title: 'Expense Tracker',
+        live_url: 'khalidatgit.github.io/expense-tracker/',
+        source_url: 'https://github.com/khalidAtGit/expense-tracker.git',
         description: '..............',
         stack: [
             'React',
