@@ -16,7 +16,7 @@ const projects = [
     },
     {
         id: 2,
-        project_image: 'https://raw.githubusercontent.com/khalidAtGit/tic-tac-toe/media/display.png',
+        project_image: 'https://raw.githubusercontent.com/khalidAtGit/tic-tac-toe/design/desktop-design.png',
         project_title: 'Tic-Tac-Toe',
         live_url: 'https://khalidatgit.github.io/tic-tac-toe/',
         source_url: 'https://github.com/khalidAtGit/tic-tac-toe.git',
