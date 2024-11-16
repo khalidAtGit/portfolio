@@ -34,7 +34,7 @@ const projects = [
         id: 3,
         project_image: 'https://raw.githubusercontent.com/khalidAtGit/expense-tracker/public/ss.png',
         project_title: 'Expense Tracker',
-        live_url: 'khalidatgit.github.io/expense-tracker/',
+        live_url: 'https://khalidatgit.github.io/expense-tracker/',
         source_url: 'https://github.com/khalidAtGit/expense-tracker.git',
         description: '..............',
         stack: [
