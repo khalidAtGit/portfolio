@@ -26,13 +26,18 @@ const skills = [
     },
     {
         id: 6,
-        icon: `jquery.png`,
-        title: 'jQuery',
+        icon: `figma.png`,
+        title: 'Figma',
     },
     {
         id: 7,
         icon: `node.png`,
         title: 'NodeJS',
+    },
+    {
+        id: 7,
+        icon: `php.png`,
+        title: 'PHP',
     },
     {
         id: 8,
