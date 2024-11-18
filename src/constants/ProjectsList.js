@@ -49,10 +49,10 @@ const projects = [
     },
     {
         id: 4,
-        project_image: '.............',
-        project_title: '............',
-        live_url: '...........',
-        source_url: '.........',
+        project_image: 'https://raw.githubusercontent.com/khalidAtGit/clock/main/design/desktop-design.png',
+        project_title: 'Clock',
+        live_url: 'https://khalidatgit.github.io/clock/',
+        source_url: 'https://github.com/khalidAtGit/clock',
         description: '...........',
         stack: [
             'HTML',
