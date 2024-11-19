@@ -45,11 +45,6 @@ const skills = [
         title: 'ReactJS',
     },
     {
-        id: 9,
-        icon: `google-cloud.png`,
-        title: 'GoogleCloud',
-    },
-    {
         id: 10,
         icon: `ChatGPT.png`,
         title: 'ChatGPT',
