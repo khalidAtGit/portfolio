@@ -35,12 +35,12 @@ const skills = [
         title: 'NodeJS',
     },
     {
-        id: 7,
+        id: 8,
         icon: `php.png`,
         title: 'PHP',
     },
     {
-        id: 8,
+        id: 9,
         icon: `react.png`,
         title: 'ReactJS',
     },
