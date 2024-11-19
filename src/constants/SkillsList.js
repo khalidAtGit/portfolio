@@ -48,6 +48,16 @@ const skills = [
         id: 9,
         icon: `google-cloud.png`,
         title: 'GoogleCloud',
+    },
+    {
+        id: 10,
+        icon: `ChatGPT.png`,
+        title: 'ChatGPT',
+    },
+    {
+        id: 11,
+        icon: `github.png`,
+        title: 'GitHub',
     }
 
 ];
